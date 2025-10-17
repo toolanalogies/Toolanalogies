@@ -1,0 +1,28 @@
+[
+  {
+    "objs": [
+      "hockeystick_blade",
+      "hockeystick_shaft"
+    ],
+    "name": "object",
+    "text": "object",
+    "children": [
+      {
+        "objs": [
+          "hockeystick_blade"
+        ],
+        "name": "hockeystick_blade",
+        "text": "hockeystick_blade",
+        "children": []
+      },
+      {
+        "objs": [
+          "hockeystick_shaft"
+        ],
+        "name": "hockeystick_shaft",
+        "text": "hockeystick_shaft",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+I want to widen the bed in the left-right direction.
+I want to make the bed longer in the front-back direction.
+I want to bring the upper bed frame closer to the ground.
+I want to make the bed shorter by pushing its front back. Keep the ladder and the rungs fixed, and the parts at the back side fixed.
+I want to increase the gap between the lower and upper beds by moving the upper bed surface further up.
+I want to make the lower bed wider in the left-right direction.
+I want to shift the top mattress backwards
+I want to lower the front of the top mattress
+I want to make the headboards taller my moving the top halfs upwards.
+I want to move the feet of the ladder further to the right
+I want to make the bed taller by lengthening the bed posts. Please do not increase the number of bar stretchers.
+I want to make the bed posts thicker (in left-right and front back directions) without changing anything else.
+I want to make the ladder wider by moving the back ladder bar further to the back
+I want to move the bed's left side surface further to the left, extending the bed as a result. Keep the parts on the right fixed.
+I want to make the bed's right side surface longer along the back-front direction
+I want to make the ladder rungs wider.
+I want to bring the horizontal bed frame downwards, scaling the parts below it accordingly.
+I want contract the bed by bringing its back to the front. Keep the front fixed.

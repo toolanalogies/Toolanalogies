@@ -1,0 +1,20 @@
+[{
+  "objs": ["cube_triangulated", "cube_triangulated"],
+  "name": "cube_master",
+  "text": "cube_master",
+  "children": [
+    {
+      "objs": ["cube_triangulated"],
+      "name": "dummy",
+      "text": "dummy",
+      "children": []
+    },
+    {
+      "objs": ["cube_triangulated"],
+      "name": "cube_part",
+      "text": "cube",
+      "children": []
+    }
+  ]
+}]
+

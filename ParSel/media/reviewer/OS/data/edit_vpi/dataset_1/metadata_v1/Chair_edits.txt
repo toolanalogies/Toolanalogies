@@ -1,0 +1,30 @@
+I want to make the front legs shorter from the top without changing the back legs.
+I want to move the back legs apart while keeping the front legs in the same place.
+I want to make the chair wider.
+I want to lower the back of the chair seat.
+I want to make the backrest wider while keeping the seat and legs the same.
+I want to tilt the front of chair seat downwards.
+I want to make the front of the chair seat wider.
+I want to make the chair seat thicker.
+I want to contract the chair along the left-right direction and tilt the legs inwards.
+I want to make the chair wider, increasing the vertical bars on the backrest as we scale.
+I want to tilt the front of the armrests downwards and scale their vertical arm bars if required, while keeping the back, seat and legs as they are.
+I want to tilt the backrest further to the back.
+I want to make each of the bars between the legs thicker.
+I want to increase the number of legs on this swivel chair.
+I want to make the armrests taller by extending the top faces of the vertical bars upwards.
+I want to make the backrest shorter by moving its lower face upwards. Do not change the rest of the chair.
+I want to tilt the front legs forwards and back legs backwards.
+I want to make the chair shorter by shortening the legs and bringing the rest of the chair downwards.
+I want to make only the armrests shorter by lowering their top face.
+I want to tilt the top half of the armrests outwards.
+I want to make the bar stretcher between the runners shorter along the left-right direction. When required, tilt the legs instead of moving them entirely.
+I want to lower the seat of the chair.
+I want to tilt the armrests outwards. I want to keep the seat unchanged, and taper the backrest as we tilt the armrests.
+I want to make the runners shorter along the back-front direction. I want to tilt the legs as we scale the runners.
+I want to tilt the armrests inwards. As we do this edit, I want to taper the backrest inwards, skewing the legs outwards while lengthening the seat.
+I want to shorten the height of the legs, brings the rest of the chair downwards.
+I want to make the chair seat and back wider without changing the mechanical control, or the central support.
+I want to make the chair seat smaller in both left-right and back-front directions. I want to tilt the legs inwards as we perform this edit.
+I want to make the chair seat thinner by moving its top downwards and not change any other parts.
+I want to make the seat frame bars thicker by extending their lower part towards the floor. I want to keep the foots the same size.

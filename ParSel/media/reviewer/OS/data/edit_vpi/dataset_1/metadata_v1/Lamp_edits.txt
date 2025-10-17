@@ -1,0 +1,19 @@
+I want to rotate the lamp shade upwards
+I want to move only the bottom ends of the legs further out and keep the other parts as they are.
+I want to shorter the lamp chains by moving their bottom ends up.
+I want to make the lamp cover shorter in the front-back direction, moving the light bulbs accordingly
+I want to make the lamp cover and widerframe wider in the four cardinal directions without changing the body or base.
+I want to make the lamp body shorter in the up-down direction, making the lamp base longer as needed.
+I want to make the lamp arm wider in the four cardinal directions. I want to increase the number of lamp heads as we do that.
+I want to make the lamp arms shorter, and elongate the lamp heads as needed.
+I want to move the lamp arms down, shortening the lamp base accordingly
+I want to make the light bulbs bigger without changing other parts of the shape.
+I want to make the base of the lamp wider in the left-right direction without changing other parts
+I want to contract the lamp body by moving its base upwards. Elongate the base as needed.
+I want to contract the lamp body from the top, moving the lanp shade and bulb accordingly.
+I want to make the lamp shader larger in all the 4 cardinal directions while keeping the other parts fixed.
+I want to rotate the upper lamp arms down about their back ends. Please scale the lower arms accordingly and ignore the cord.
+I want to make the lower lamp arms shorter, and move the other parts accordingly. Please ignore the cord. Keep it as it is.
+I want to move the lamp shade towards the back, moving the curved arm as well. However, when required, I want to tilt the pole instead of moving it.
+I want to make the lamp shade longer be extending its lower end downwards.
+I want to increase the number of lamp arm, bulb and covers

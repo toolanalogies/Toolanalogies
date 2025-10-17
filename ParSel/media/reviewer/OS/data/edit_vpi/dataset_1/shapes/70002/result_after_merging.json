@@ -1,0 +1,28 @@
+[
+  {
+    "objs": [
+      "spoon_head",
+      "spoon_handle"
+    ],
+    "name": "object",
+    "text": "object",
+    "children": [
+      {
+        "objs": [
+          "spoon_head"
+        ],
+        "name": "spoon_head",
+        "text": "spoon_head",
+        "children": []
+      },
+      {
+        "objs": [
+          "spoon_handle"
+        ],
+        "name": "spoon_handle",
+        "text": "spoon_handle",
+        "children": []
+      }
+    ]
+  }
+]

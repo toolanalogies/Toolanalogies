@@ -1,0 +1,20 @@
+I want to make the shelves wider.
+I want to make the bottom panel wider, tilting the side panels outwards as we scale.
+I want to open the cabinet doors and their handles towards the front by rotating them outwards from their hinges. The hinges are on the outer sides. Keep the rest fixed.
+I want to increase the number of shelves in the cupboard.
+I want to move the drawers out towards the front.
+I want to lengthen the central drawer by extending its lower part, and adjusting the cabinet door and handles below it accordingly. Do not change anything else.
+I want to open the front cabinet door along with its handle by rotating it forward about its left face. Keep the rest fixed.
+I want to contract the storage unit in the left-rigth direction.
+I want to bring all the drawers out towards the front without moving the storage unit
+I want to make the cabinet in the bottom smaller by lowering its top and shifting the other parts accordingly.
+I want to make the storage unit shallower by moving its back panel towards the front and scaling the panels accordingly.
+I want to make the storage unit taller without moving the shelves inside.
+I want to make the front of the shelves wider along the left-right direction while keeping the back panel fixed.
+I want to make the storage unit shorter, scaling its side and back panels and removing the shelves as required.
+I want to extend the shelves outwards by moving their outward facing faces outwards.
+I want to make the storage unit shorter by lowering its top panel, and reducing the distance between the shelves as required. Do not change the cabinets, drawers, frame vertical bar, bottom panel and handles.
+I want to make the left side panel thicker along the left-right direction.
+I want to make the bottom panel wider from the right side. I want to keep the cabinet door and drawer as it is, but scale other parts of the storage unit accordingly.
+I want to move the entire drawer out towards the front, without moving other parts of the storage unit.
+I want to move the drawer and its handle to the front out of the storage furniture without changing other parts.

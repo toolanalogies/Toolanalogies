@@ -1,0 +1,23 @@
+"Widen bed in the right-left direction": 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Widen bed in the front-back direction": 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Rotate headboard of bed backwards": 0, 4
+"Rotate headboard towards the front": 0, 4
+"Widen mattress of the bed": 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Make the bed frame taller": 0
+"Tilt the mattress upwards": 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Rotate the latter in the left-right direction": 1, 2, 3, 5, 6, 7, 8, 9, 10, 11
+"Tilt the latter upwards": 1, 2, 3, 5, 6, 7, 8, 9, 10, 11
+"Widen latter in the left-right direction": 1, 2, 3, 5, 6, 7, 8, 9, 10, 11
+"Rotate front two legs towards each other": 1, 2, 3, 5, 7, 8, 9, 10, 11
+"Widen the distance between the left two bed posts": 1, 2, 3, 4, 5, 7, 8, 9, 10, 11
+"Move bottom bed frame up": 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Make the bed posts thicker": 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Elongate back two legs": 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Widen distance between horizontal bars on the bed sides": 2, 6
+"Tilt the two left bed posts away from each other": 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+"Bring rungs on the bed closer together": 4
+"Make the bottom pillows wider in the left-right direction": 5
+"Widen vertical bars on the bed sides": 10
+
+
+    

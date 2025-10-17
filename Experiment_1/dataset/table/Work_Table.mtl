@@ -1,0 +1,10 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.0.1937526254)
+
+newmtl Table_Material
+Ke 0 0 0
+illum 1
+map_Kd ./materials/textures/Table_Material_baseColor.jpg
+bump ./materials/textures/Table_Material_normal.jpg
+map_bump ./materials/textures/Table_Material_normal.jpg
+

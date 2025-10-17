@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "solve_edit",
+            "type":"debugpy",
+            "request":"launch",
+            "console": "integratedTerminal",
+            "program": "scripts/solve_edit.py",
+            "cwd": "${workspaceFolder}",
+            "env": {"PYTHONPATH": "${workspaceFolder}"}
+            //"args": ["--dataset_index 1"]
+        },
+        {
+            "name": "run_vis",
+            "type":"debugpy",
+            "request":"launch",
+            "console": "integratedTerminal",
+            "program": "scripts/run_vis.py",
+            "cwd": "${workspaceFolder}",
+            "env": {"PYTHONPATH": "${workspaceFolder}"}
+            //"args": ["--dataset_index 1"]
+        },
+        {
+            "name": "VLM2edit",
+            "type":"debugpy",
+            "request":"launch",
+            "console": "integratedTerminal",
+            "program": "scripts/VLM2Edit.py",
+            "cwd": "${workspaceFolder}",
+            "env": {"PYTHONPATH": "${workspaceFolder}"}
+            //"args": ["--dataset_index 1"]
+        },
+                {
+            "name": "run_online",
+            "type":"debugpy",
+            "request":"launch",
+            "console": "integratedTerminal",
+            "program": "scripts/run_online_classifier.py",
+            "cwd": "${workspaceFolder}",
+            "env": {"PYTHONPATH": "${workspaceFolder}"}
+            //"args": ["--dataset_index 1"]
+        }
+    ]
+}

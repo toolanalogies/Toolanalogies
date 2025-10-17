@@ -1,0 +1,22 @@
+I want to make the legs shorter from the top, making the table top thicker as the legs are scaled.
+I want to make the table longer along the back-front direction while keeping the legs as they are.
+I want to contract the table top along the left-right direction.
+I want to lower the bars between the legs without changing the legs.
+I want to bring the legs outwards, rotating the front right leg further to the front-right direction and so on.
+I want to make the table wider along the front-back direction by lengthening the connectors. Increase the count of components as required.
+I want to move the bark stretchers further outwards, and tilt the legs outwards accourdingly.
+I want to make the table top wider in both left-right and front-back directions. I want to increase the number of legs as we do that.
+I want to make the table top wider without changing the legs.
+I want to make the shelf wider in left-right and front-back directions, without changing the table board.
+I want to contract the board along the back-front direction, without changing other parts.
+I want to contract the table in the left-right direction, removing the legs as required.
+I want to make each front legs thicker along the left-right direction.
+I want to tilt the back of the top board downwards without chainging the front legs.
+I want to move the front legs further inwards (along the left-right direction), scaing the other parts accordingly.
+I want to move the legs closer together (along the left-right direction), but without editing the tabletop.
+I want to move the board further upwards. While adjusting the parts, I want to move only the upper shelves up, and not the lower shelves.
+I want to make the table top thicker vertically, scaling the other parts accordingly.
+I want to contract the table by moving its left vertical panel to the right side. Do not change the right side panel, central panel or the bottom panel.
+I want to make the board shorter along the left-right direction. However, I want to tilt the side panels instead of moving them.
+I want to make the foots taller by moving their top parts upwards. I want to move the drawers, and shelves upwards accordingly as well. However, I want to keep the top board as it is.
+I want to extend the top drawer by moving its top part further outwards. Move the shelf accordingly, but do not change the side panels or the board.
